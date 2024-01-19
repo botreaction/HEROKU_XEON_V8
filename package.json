@@ -1,25 +1,25 @@
 {
-  "name": "meon",
+  "name": "NJAS",
   "version": "8.0.0",
-  "description": "meon",
+  "description": "NJAS",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [
-    "termux",
+    "termdux",
     "whatsapp",
     "2023",
-    "wabase-md",
+    "NJAS",
     "base",
-    "baileys-md",
-    "bot",
-    "bot-md",
-    "multi-device"
+    "NJAS",
+    "NJAS",
+    "NJAS",
+    "NJAS"
   ],
-  "author": "meon",
-  "license": "GPL-3.0-or-later",
+  "author": "NJAS",
+  "license": "ISCr",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
